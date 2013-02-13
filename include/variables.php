@@ -1,0 +1,5 @@
+<?php
+
+$fruta="manzana";
+
+?>
